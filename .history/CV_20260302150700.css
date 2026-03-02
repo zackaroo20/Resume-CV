@@ -1,0 +1,13 @@
+@font-face {
+    font-family: ;
+    src: url();
+}
+
+header{
+    
+    background-color:#084c8b;
+    color: white;
+    display: flex;
+    justify-content: space-evenly
+
+}

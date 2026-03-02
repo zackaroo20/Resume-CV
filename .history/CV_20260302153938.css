@@ -1,0 +1,24 @@
+
+header{
+
+    background-color:#084c8b;
+    color: white;
+    display: flex;
+    justify-content: space-evenly
+
+}
+
+
+img{
+
+    background-color: transparent;
+    width: 20px;
+    height: 18px;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60 px;
+    background-color:#084c8b;
+}

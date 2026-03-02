@@ -1,0 +1,58 @@
+header {
+  background-color: #084c8b;
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+}
+.subdiv {
+  width: 100%;
+  padding-left: 20px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.dash {
+  color: #084c8b;
+  display: inline-flex;
+  align-items: center;
+  font-weight: bold;
+  letter-spacing: 3px;
+  margin: 0;
+  margin-right: 15px;
+}
+.divider {
+  border: 0;
+  height: 3px;
+  background-color: #1f4e79;
+  width: calc(100% - 40px);
+  margin-top: 12px;
+}
+
+.skills {
+   font-family: Arial, sans-serif;
+  list-style: disc;
+  padding-left: 40px;
+  margin: 8px 0 0 0;
+}
+.skills li {
+  background: none;
+
+  padding: 2px 0;
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+img {
+  background-color: transparent;
+  width: 20px;
+  height: 18px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60 px;
+  background-color: #084c8b;
+}
